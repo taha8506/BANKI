@@ -43,6 +43,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Cause:** At a previous company we had project managers assigned to several different teams where workload would fluctuate quite a bit.
   - **Action:** I noticed an opportunity to flatten the workload of the PM's, by creating a shared PM pool.
   - **Result:** This was possible by running a high level kanban of all projects assigned by PM to get visibility to workload. It also allowed knowledge sharing such that it was much easier for a PM to step in on any given team.
+  
 - [x] Tell me about a time you had to work on several projects at once. How did you handle this?
 
   - **Cause:** I was working on two large projects for two separate clients that were at different stages of their lifecycle. One project was in production and the other project was in the implementation phase.
