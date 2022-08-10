@@ -139,9 +139,9 @@ Most of the technical questions should have a three sentence response in the EUE
 ### HTML
 
 - [ ] What does a doctype do?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
+  - **Explanation:** Instructions to the browser about what version of HTML the webpage is written in, ensuring the web page is parsed the same way across web browsers.
+  - **Use:** It's the first line of code in the HTML document.
+  - **Example:** HTML5 tag `<!DOCTYPE html>` 
   - **Source:**
 - [ ] How do you serve a page with content in multiple languages?
   - **Explanation:**
